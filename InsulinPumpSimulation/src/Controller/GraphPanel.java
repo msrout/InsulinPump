@@ -28,7 +28,7 @@ import org.jfree.chart.plot.ValueMarker;
  * @author Monalisa
  */
 public class GraphPanel extends JPanel implements ActionListener{
-    
+    // Time series
     private TimeSeries series;
     private String strMIN;
     private String strHOR;
